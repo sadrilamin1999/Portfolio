@@ -188,8 +188,8 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
-var typed = new Typed('.type', {
-   strings: ['Sadril Amin'],
-   typeSpeed: 100,
-   loop: true,
- });
+// var typed = new Typed('.type', {
+//    strings: [''],
+//    typeSpeed: 40,
+//    loop: true,
+//  });
