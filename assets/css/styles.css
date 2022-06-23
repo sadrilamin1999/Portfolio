@@ -515,7 +515,9 @@ img{
 .skills__js{
    width: 50%;
 }
-
+.skills__jquery{
+   width: 60%;
+}
 .skills__figma{
    width: 90%;
 }
